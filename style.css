@@ -1,0 +1,19 @@
+ img {
+  width: 150px;
+  height: 150px;
+}
+h1{
+  color:#ad0000;
+  text-decoration: underline;
+}
+h2{
+  color:ghostwhite;
+  text-shadow: 2px 2px black;
+}
+img{
+  border: dotted;
+}
+  body{
+    background-color: plum;
+    font-family: 'Charm';font-size: 22px;
+  }
